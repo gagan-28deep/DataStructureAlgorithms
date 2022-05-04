@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "FUNCTIONS_AND_ARRAYS_62b9606a"
+        },
+        {
+            "type": "java",
+            "name": "Launch array_questions",
+            "request": "launch",
+            "mainClass": "array_questions",
+            "projectName": "FUNCTIONS_AND_ARRAYS_62b9606a"
+        },
+        {
+            "type": "java",
+            "name": "Launch array_questions_2",
+            "request": "launch",
+            "mainClass": "array_questions_2",
+            "projectName": "FUNCTIONS_AND_ARRAYS_62b9606a"
+        },
+        {
+            "type": "java",
+            "name": "Launch array_questions_3",
+            "request": "launch",
+            "mainClass": "array_questions_3",
+            "projectName": "FUNCTIONS_AND_ARRAYS_62b9606a"
+        },
+        {
+            "type": "java",
+            "name": "Launch func",
+            "request": "launch",
+            "mainClass": "func",
+            "projectName": "FUNCTIONS_AND_ARRAYS_62b9606a"
+        },
+        {
+            "type": "java",
+            "name": "Launch numbersystem",
+            "request": "launch",
+            "mainClass": "numbersystem",
+            "projectName": "FUNCTIONS_AND_ARRAYS_62b9606a"
+        },
+        {
+            "type": "java",
+            "name": "Launch numbersystemcont",
+            "request": "launch",
+            "mainClass": "numbersystemcont",
+            "projectName": "FUNCTIONS_AND_ARRAYS_62b9606a"
+        }
+    ]
+}
