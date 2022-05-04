@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "BasicDataStructures/LinkedList/LLtoQueueAdaptor",
+        "BasicDataStructures/GenericTree",
+        "TimeANdSpaceComplexity/countSort"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch fact_recursion",
+            "request": "launch",
+            "mainClass": "fact_recursion",
+            "projectName": "Intro_to_rec_7677859f"
+        },
+        {
+            "type": "java",
+            "name": "Launch outp",
+            "request": "launch",
+            "mainClass": "outp",
+            "projectName": "Intro_to_rec_7677859f"
+        },
+        {
+            "type": "java",
+            "name": "Launch power_linear",
+            "request": "launch",
+            "mainClass": "power_linear",
+            "projectName": "Intro_to_rec_7677859f"
+        },
+        {
+            "type": "java",
+            "name": "Launch power_log",
+            "request": "launch",
+            "mainClass": "power_log",
+            "projectName": "Intro_to_rec_7677859f"
+        },
+        {
+            "type": "java",
+            "name": "Launch print_decreasing",
+            "request": "launch",
+            "mainClass": "print_decreasing",
+            "projectName": "Intro_to_rec_7677859f"
+        },
+        {
+            "type": "java",
+            "name": "Launch print_incr_decr",
+            "request": "launch",
+            "mainClass": "print_incr_decr",
+            "projectName": "Intro_to_rec_7677859f"
+        },
+        {
+            "type": "java",
+            "name": "Launch print_increasing",
+            "request": "launch",
+            "mainClass": "print_increasing",
+            "projectName": "Intro_to_rec_7677859f"
+        },
+        {
+            "type": "java",
+            "name": "Launch towerofhanoi",
+            "request": "launch",
+            "mainClass": "towerofhanoi",
+            "projectName": "Intro_to_rec_7677859f"
+        },
+        {
+            "type": "java",
+            "name": "Launch zigzag",
+            "request": "launch",
+            "mainClass": "zigzag",
+            "projectName": "Intro_to_rec_7677859f"
+        }
+    ]
+}
