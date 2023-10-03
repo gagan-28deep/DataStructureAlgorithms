@@ -41,6 +41,9 @@ public class linear_search {
         int data = scn.nextInt();
 
         int ans = lin_search(arr , data);
+        if(ans == -1){
+            System.out.println("Elemet not Present in the array");
+        }
         System.out.println(ans);
         System.out.println(arr[ans]);
 
